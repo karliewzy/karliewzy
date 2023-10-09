@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karlie
-- 🌱 I’m currently studying Engineering
+- 🌱 I’m currently studying Engineering at the University of British Colombia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
