@@ -1,4 +1,6 @@
-I am a Mechanical Engineering student specializing in Mechatronics, with hands-on experience in prototyping, design, and problem-solving. Experienced with SolidWorks, MATLAB, and Arduino, I am interested in applying my engineering and analytical skills through internships, where I can gain practical experience and contribute to innovative projects.
+Hi, I'm Karlie
+
+I am a Mechanical Engineering student specializing in Mechatronics
 
 
 <!---
